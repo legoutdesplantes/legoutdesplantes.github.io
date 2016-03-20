@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" role="img" aria-label="search">
+<style>.back {fill:#96CA2D;}
+.refl {fill:#FFFFFF;stroke:none;fill-opacity:0.2}
+.magn {fill:#96CA2D;stroke:none;}
+circle {fill:none;stroke:#96CA2D;stroke-width:3}
+</style>
+<title>search</title>
+  <defs>
+    <linearGradient
+       id="lgr">
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1"
+         offset="0" />
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="9.20"
+       y1="2.30"
+       x2="6.62"
+       y2="11.55"
+       id="gr"
+       xlink:href="#lgr"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       x="-0.08"
+       y="-0.11"
+       width="1.17"
+       height="1.23"
+       color-interpolation-filters="sRGB"
+       id="blur">
+      <feGaussianBlur stdDeviation="0.41" />
+    </filter>
+  </defs>
+<!--path class="refl" d="M 2.76,7.66 C 4.27,3.63 9.81,0.86 12.58,3.38 11.57,12.19 2.76,7.66 2.76,7.66 z"/-->
+  <path
+     d="M 3.83,11.75 C 1.38,5.91 8.21,-0.55 15.07,6.31 8.64,5.33 5.03,5.22 3.83,11.75 z"
+     id="path2995"
+     style="fill:url(#gr);fill-opacity:1;stroke:none;filter:url(#blur)" />
+<path class="magn" d="m 19,21 -7,-7 2,-2 7,7 z"/>
+<circle cx="9" cy="9" r="6.5"/>
+</svg>

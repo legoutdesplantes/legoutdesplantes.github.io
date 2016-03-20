@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" role="img" aria-label="search">
+<style>.back {fill:#96CA2D;}
+.refl {fill:#FFFFFF;stroke:none;fill-opacity:0.2}
+.magn {fill:#96CA2D;stroke:none;}
+circle {fill:none;stroke:#96CA2D;stroke-width:3}
+</style>
+<title>search</title>
+<path class="refl" d="M 2.76,7.66 C 4.27,3.63 9.81,0.86 12.58,3.38 11.57,12.19 2.76,7.66 2.76,7.66 z"/>
+<path class="magn" d="m 19,21 -7,-7 2,-2 7,7 z"/>
+<circle cx="9" cy="9" r="6.5"/>
+</svg>

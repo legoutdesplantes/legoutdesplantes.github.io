@@ -1,0 +1,8 @@
+# Site settings
+title: Le Goût des Plantes
+baseurl: "" # the subpath of your site, e.g. /blog/
+destination: /srv/data/ben/webjekyll
+
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,7 @@
+.anecdote:before {
+	content: "Anekdote";
+}
+
+.tourdemain:before {
+	content: "Trucje";
+}
